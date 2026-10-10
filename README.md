@@ -1,0 +1,2 @@
+1) Install all dependencies in requirements.txt
+2) Open CMD prompt (in project directory, click the address bar in Explorer, type "cmd", and press ENTER to open command window in the directory), type "jupyter notebook", press enter, double click fraud_detection.ipynb, select first cell and press "SHIFT+ENTER" to execute that cell.
